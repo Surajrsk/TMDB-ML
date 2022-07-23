@@ -10,8 +10,8 @@ Objective of the project is to build an efficient model to predict the world wid
 
 The Data is obtained from The Movie Database(TMDB).
 
-![](https://github.com/suraj21022001/TMDB-ML/blob/main/images/1.png)
+![](/images/1.png)
 
-![](https://github.com/suraj21022001/TMDB-ML/blob/main/images/2.png)
+![](/images/2.png)
 
-![](https://github.com/suraj21022001/TMDB-ML/blob/main/images/3.png)
+![](/images/3.png)
